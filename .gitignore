@@ -1,0 +1,10 @@
+.env
+venv
+.venv/
+.idea
+*.pyc
+__pycache__/
+data/*.csv
+*.html
+*.pdf
+.ipynb_checkpoints
