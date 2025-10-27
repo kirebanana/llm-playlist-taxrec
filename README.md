@@ -2,7 +2,7 @@
 
 This project generates music playlists based on natural language prompts (like "chill study music"). It uses **GPT-4o** to understand the request and match it against a **structured taxonomy** (genre, mood, era, etc.) applied to a local song collection.
 
-It's inspired by the **TAXREC** paper and. The main report and results are in `report.ipynb`.
+It's inspired by the **TAXREC** paper. The main report and results are in `report.ipynb`.
 
 ---
 
